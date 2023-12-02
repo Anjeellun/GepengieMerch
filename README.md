@@ -1,32 +1,31 @@
-# Android Beginner App - Dicoding Submission
+# Android Application Project - "Belajar Membuat Aplikasi Android untuk Pemula" Submission
 
-This Android application is a submission for the "Belajar Membuat Aplikasi Android untuk Pemula" course by Dicoding as part of the Bangkit Academy cohort program.
+## Overview
+
+This Android application is a submission for the "Belajar Membuat Aplikasi Android untuk Pemula" course by Dicoding as a part of the Bangkit Academy cohort. The app includes three main screens: Home, Detail, and About. It utilizes RecyclerView for the Home screen, ScrollView for the Detail screen, and features an About page with a special access button.
 
 ## Features
 
 ### Home Page
 
-- Display a list of at least 10 items with different images using RecyclerView.
+- Displays a list of at least 10 different items using RecyclerView.
 - Each item includes:
   - Title of the article.
   - Optional overview of the article.
-  - Clicking an item navigates to the Detail Page.
+- Implements a click handler on each item to navigate to the Detail page.
 
 ### Detail Page
 
-- Display relevant information:
-  - Title and image corresponding to the selected item from the Home Page.
-  - Detailed description or additional information.
-- Use ScrollView to ensure content visibility during screen rotation.
+- Shows relevant information and an image.
+- Contains the same title and image as the selected item from the Home page.
+- Presents a longer description or additional information.
+- Uses ScrollView to ensure content visibility when the device is rotated.
 
 ### About Page
 
-- Show a photo, name, and email registered with Dicoding.
-- Implement a button or view with the ID "about_page" to access the About Page.
+- Features a button or element with the ID "about_page" for easy access.
+- Displays a photo, name, and email registered on Dicoding.
 
-## Implementation Details
+## Additional Notes
 
-- Utilize RecyclerView for the Home Page.
-- Implement click handlers for RecyclerView items to navigate to the Detail Page.
-- Use ScrollView for the Detail Page to support screen rotation.
-- Include a button or view with the ID "about_page" for easy access to the About Page.
+- This project serves as evidence of successful completion of the "Belajar Membuat Aplikasi Android untuk Pemula" course, earning a 4-star rating from Dicoding.
