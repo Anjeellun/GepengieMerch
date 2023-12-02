@@ -1,0 +1,57 @@
+<resources>
+
+    <string name="app_name">Gepengie Things</string>
+    <string name="merch_name">2D Merchandise 2023</string>
+    <string name="description">Description</string>
+    <string-array name="data_name">
+        <item>Munyugurumi Bluelock</item>
+        <item>Bluelock Exhibition</item>
+        <item>Bluelock x Sanrio </item>
+        <item>Bluelock Tapinui Vol 2</item>
+        <item>Bluelock Kimi To Friends</item>
+        <item>The Chain by @PARASSEUX</item>
+        <item>Childe, Orange Bean</item>
+        <item>Chasing Light by @Eriimyon</item>
+        <item>Blade doll, Crimson Red Shore</item>
+        <item>Pompom HSR Official Merch</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>When your favorite Bluelock characters are transformed into irresistibly kawaii plushies collab with Sanrio!</item>
+        <item>Consists of an enticing selection of souvenirs and collectibles that commemorate the immersive Bluelock exhibition experience.</item>
+        <item>Explore exclusive merchandise from the unique Bluelock-Sanrio crossover, blending both worlds charm seamlessly!</item>
+        <item>Volume 2 Unleashed! Get ready for the next wave of Bluelock Tapinui collectibles, coming soon for all Bluelock fans!</item>
+        <item>Festival Edition, celebrates the spirit of friendship with Bluelock Kimi To Friends in this exclusive festival version.</item>
+        <item>Prepare to be enthralled by The Chain, a meticulously curated fan merchandise collection by PARASSEUX.</item>
+        <item>Whether you are a Childe fan or a plushie enthusiast, this Orange Bean Childe is a perfect collectible addition.</item>
+        <item>Racing into Adventure, gear up for an exhilarating journey with the Chasing Light designed by the talented @Eriimyon.</item>
+        <item>Despite its fierce on the origins, this plush showcases an endearing and charming design that will melt your heart.</item>
+        <item>Meet the adorable PomPom 24 cm Plush, an official merchandise item from Honkai Star Rail!</item>
+    </string-array>
+
+    <string-array name="merchExtraDescription">
+        <item>Prepare to be enchanted as your beloved Bluelock characters undergo a delightful transformation into irresistibly kawaii plushies in an exclusive collaboration with Sanrio! This enchanting collection seamlessly marries the endearing charm of Bluelock with the timeless cuteness of Sanrio iconic characters. Each plushie is a work of art, meticulously crafted to capture the essence of your favorite Bluelock personalities while infusing them with the irresistible kawaii factor that Sanrio is renowned for.</item>
+        <item>This curated collection is a testament to the immersive Bluelock exhibition, offering an array of souvenirs and collectibles that capture the magic and memories of your visit. Each item is a cherished memento of your journey through the captivating Bluelock universe. From intricately designed figurines that bring your favorite characters to life, to beautifully illustrated art prints that evoke the exhibitions essence, this selection appeals to both avid fans and newcomers alike. Whether you are seeking a piece of the Bluelock world to display proudly or a keepsake to cherish the exhibitions immersive experience, this assortment ensures there is something special for everyone. Explore this enticing collection and relive the enchantment of the Bluelock exhibition time and time again.</item>
+        <item>Dive into the enchanting world of the Bluelock-Sanrio crossover and discover a treasure trove of exclusive merchandise that seamlessly blends the charms of both universes. This extraordinary collection unites the beloved characters and aesthetics of Bluelock with the timeless appeal of Sanrio, creating a whimsical and delightful fusion. From adorable plushies to stylish accessories and beyond, this collaboration offers a range of meticulously crafted items that capture the essence of both worlds.</item>
+        <item>Volume 2 is here, Unleashed! Brace yourselves for the upcoming wave of Bluelock Tapinui collectibles, specially tailored for the ardent Bluelock enthusiasts. This new collection promises to take your Bluelock experience to soaring heights with an array of meticulously crafted items that encapsulate the essence of this beloved series. Get ready to immerse yourself in the captivating world of Bluelock once more, as these collectibles are set to revive the magic and nostalgia you hold dear.</item>
+        <item>The festival Edition is a vibrant celebration of friendship, featuring Bluelock Kimi To Friends in an exclusive festival version. This unique collectible captures the essence of camaraderie and the heartwarming bonds depicted in the beloved Bluelock Kimi To Friends series. With meticulous craftsmanship and a dynamic festival-inspired design, this edition breathes new life into your favorite characters. Whether you are a dedicated fan or a newcomer to this world, this festival edition is a must-have reminder that friendship knows no bounds. Join in the spirit of togetherness and embark on an unforgettable journey with the Estival Edition of Bluelock Kimi To Friends.</item>
+        <item>The Chain fan merchandise collection is a diverse range of creatively crafted items designed to cater to fans desires. The collection includes unique badges to elevate your style, husbando standees for decorating your space, collectible laser tickets for an artistic twist, exclusive polaroids to preserve memories, stunning clear cards that immerse you in "The Chain" world, and acrylic quicksand displays to adorn your personal space. Explore this exclusive fan collection now! </item>
+        <item>For Childe fans and plushie enthusiasts alike, Orange Bean Childe is an impeccable collectible. This intricately detailed plushie impeccably embodies Childe character from Genshin Impact, making it a must-have for both enthusiasts and collectors. With its soft, huggable design, its perfect for display or snuggling during gaming sessions. Orange Bean Childe isnt just a tribute to your adoration for the character; its a true work of art. Whether it graces your shelf or becomes a thoughtful gift for a fellow Childe admirer, this collectible plushie promises to evoke joy and appreciation. Welcome Orange Bean Childe into your collection today and celebrate your fondness for this iconic character.</item>
+        <item>Embark on a thrilling adventure with "Chasing Light," a sensational creation by the talented @Eriimyon. This meticulously designed masterpiece will ignite your passion for exploration and the unknown. With its dynamic and captivating features, "Chasing Light" invites you to gear up for an exhilarating journey like no other. Dive into a world of innovation and imagination as you discover the intricate details and craftsmanship that define this remarkable creation. "Chasing Light" promises to awaken your sense of adventure and inspire you to embrace the thrill of the unknown. Get ready to race into an exciting new chapter with this extraordinary masterpiece designed by @Eriimyon.</item>
+        <item>Blade from Honkai Star Rail may have a fierce origin, but it boasts an endearing and charming design that will undoubtedly melt your heart. Despite its ties to a world of action and combat, this plushie captures a softer and more lovable side. With its adorable features and attention to detail, it transcends its origins, making it an irresistible addition to your collection. Get ready to be enchanted by the delightful juxtaposition of fierceness and charm when you bring "Merch Doll Blade" into your life.</item>
+        <item>PomPom Plush, measuring 24 cm, is an endearing and cuddly collectible brought to life from the world of Honkai Star Rail. This delightful plushie captures the essence of the beloved character, PomPom, with its soft touch and comforting embrace. With meticulous attention to detail, it embodies the character charm perfectly. Beyond being a collectible, the PomPom Plush can also be your cozy bedtime companion or a delightful playtime partner. Discover warmth and joy with the PomPom Plush, guaranteed to brighten your day and add a touch of cuteness to your life.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/munyugurumi_bllk</item>
+        <item>@drawable/exhibition_bllk</item>
+        <item>@drawable/sanrio_tsutaya_bllk</item>
+        <item>@drawable/tapinui_vol_2_bllk</item>
+        <item>@drawable/festival_bllk</item>
+        <item>@drawable/fanmerch_the_chain_bllk</item>
+        <item>@drawable/childe_orange</item>
+        <item>@drawable/chasing_light</item>
+        <item>@drawable/blade_crimson</item>
+        <item>@drawable/pompom_hsr</item>
+    </integer-array>
+</resources>
